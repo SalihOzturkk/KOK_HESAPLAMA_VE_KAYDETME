@@ -1,0 +1,25 @@
+c:\users\user\Desktop\2024.10.14\2024.10.14\bin\Debug\2024.10.14.exe.config
+c:\users\user\Desktop\2024.10.14\2024.10.14\bin\Debug\2024.10.14.exe
+c:\users\user\Desktop\2024.10.14\2024.10.14\bin\Debug\2024.10.14.pdb
+c:\users\user\Desktop\2024.10.14\2024.10.14\obj\Debug\2024.10.14.csprojResolveAssemblyReference.cache
+c:\users\user\Desktop\2024.10.14\2024.10.14\obj\Debug\_2024._10._14.Form1.resources
+c:\users\user\Desktop\2024.10.14\2024.10.14\obj\Debug\_2024._10._14.Properties.Resources.resources
+c:\users\user\Desktop\2024.10.14\2024.10.14\obj\Debug\2024.10.14.csproj.GenerateResource.Cache
+c:\users\user\Desktop\2024.10.14\2024.10.14\obj\Debug\2024.10.14.exe
+c:\users\user\Desktop\2024.10.14\2024.10.14\obj\Debug\2024.10.14.pdb
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\bin\Debug\2024.10.14.exe.config
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.exe
+E:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.pdb
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\bin\Debug\2024.10.14.exe.config
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.exe
+F:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.pdb
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\bin\Debug\2024.10.14.exe.config
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.exe
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.pdb
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\bin\Debug\2024.10.14.exe
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\bin\Debug\2024.10.14.pdb
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.csproj.AssemblyReference.cache
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\_2024._10._14.Form1.resources
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\_2024._10._14.Properties.Resources.resources
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.csproj.GenerateResource.cache
+D:\ismailllllll\SELAM KAÇMAZ\C#\2024.10.14\2024.10.14\obj\Debug\2024.10.14.csproj.CoreCompileInputs.cache
